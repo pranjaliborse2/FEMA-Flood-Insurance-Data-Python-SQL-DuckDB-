@@ -1,4 +1,4 @@
-# FEMA Flood Insurance Analysis using DuckDB + SQL
+# FEMA Flood Insurance Analysis using SQL Queries via DuckDB-Python 
 
 This project analyzes large-scale FEMA National Flood Insurance Program (NFIP) datasets using **DuckDB** and **Python** to uncover insights on flood insurance policies and claims across the U.S.
 
