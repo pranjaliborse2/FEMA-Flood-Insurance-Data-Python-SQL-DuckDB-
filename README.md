@@ -14,8 +14,8 @@ Flooding is the costliest natural disaster in the U.S., yet flood insurance cove
 
 ---
 
-<Figure size 800x1400 with 2 Axes><img width="638" height="384" alt="image" src="https://github.com/user-attachments/assets/550bbaec-e8bd-455a-83b4-03606864a35a" />
-<Figure size 640x480 with 2 Axes><img width="618" height="325" alt="image" src="https://github.com/user-attachments/assets/aefe8a75-62fd-40a2-b7e6-e320ae33e4ef" />
+<Figure size 800x1400 with 2 Axes><img width="638" height="384" alt="image" src="https://github.com/user-attachments/assets/550bbaec-e8bd-455a-83b4-03606864a35a" /> <Figure size 800x1400 with 2 Axes><img width="652" height="343" alt="image" src="https://github.com/user-attachments/assets/ffdd96e3-790c-4538-8b8c-11457ca2e8e1" />
+
 <Figure size 1400x700 with 8 Axes><img width="1095" height="563" alt="image" src="https://github.com/user-attachments/assets/9ed34d78-80ea-42f5-bcdb-a3af034404b7" />
 
 ## Tech Stack
